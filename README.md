@@ -5,7 +5,7 @@
 
 Modelado matemático para análisis de ROAS, ROI y proyecciones de escala con rendimientos decrecientes para inversión publicitaria empresarial.
 
-Desarrollado y mantenido por la division de ingenieria de ingresos y medios de pago de **TAVARDT Espana**.
+Desarrollado y mantenido por la division de ingenieria de ingresos y medios de pago de **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 Para simulaciones graficas y proyecciones de presupuestos empresariales, acceda a la suite oficial:
 
 * **Calculadora de ROI de Trafico de Pago**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Consultoria en Ingenieria de Crecimiento
 
-Para auditoria de inversion publicitaria corporativa y modelado econometrico en Espana, consulte al equipo tecnico de **TAVARDT Espana**.
+Para auditoria de inversion publicitaria corporativa y modelado econometrico en Espana, consulte al equipo tecnico de **TAVARDT**.
 
 ***
 
