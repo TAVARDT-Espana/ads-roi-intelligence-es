@@ -1,14 +1,13 @@
 # Inteligencia y Modelado de ROI en Tráfico de Pago | TAVARDT España
 
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/es/calculadora-roi-trafico-de-pago/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Modelado matemático para análisis de ROAS, ROI y proyecciones de escala con rendimientos decrecientes para inversión publicitaria empresarial.
 
-Desarrollado y mantenido por la division de ingenieria de ingresos y medios de pago de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por la division de ingenieria de ingresos y medios de pago de **TAVARDT Espana**.
 
----
+***
 
 ## Modelado Matematico y Metricas
 
@@ -17,7 +16,7 @@ Desarrollado y mantenido por la division de ingenieria de ingresos y medios de p
 * **Proyeccion de Escala con Rendimientos Decrecientes**: Coeficiente de decaimiento marginal (estandar 0.85) que modela la reduccion de eficiencia al ampliar presupuestos.
 * **Formatos de Salida**: Informe de texto en consola o estructura de datos JSON para pipelines de analitica.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -26,26 +25,26 @@ Requiere unicamente Python 3.8 o superior, sin paquetes externos.
 ```bash
 git clone https://github.com/TAVARDT-Espana/ads-roi-intelligence-es.git
 cd ads-roi-intelligence-es
-python roi_engine.py --spend 10000 --revenue 50000 --target-spend 25000
+python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000
 ```
 
 Para exportar en formato estructurado JSON:
 
 ```bash
-python roi_engine.py --spend 10000 --revenue 50000 --target-spend 25000 --json
+python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 ```
 
----
+***
 
 ## Calculadora Interactiva en la Web
 
 Para simulaciones graficas y proyecciones de presupuestos empresariales, acceda a la suite oficial:
 
-* **[Calculadora de ROI de Trafico de Pago](https://tools.tavardt.com/es/calculadora-roi-trafico-de-pago/)**
+* **Calculadora de ROI de Trafico de Pago**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Consultoria en Ingenieria de Crecimiento
 
-Para auditoria de inversion publicitaria corporativa y modelado econometrico en Espana, consulte al equipo tecnico de **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para auditoria de inversion publicitaria corporativa y modelado econometrico en Espana, consulte al equipo tecnico de **TAVARDT Espana**.
