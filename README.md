@@ -1,8 +1,8 @@
 # Inteligencia y Modelado de ROI en Tráfico de Pago
 
-[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/es/calculadora-roi-trafico-de-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Modelado matemático para análisis de ROAS, ROI y proyecciones de escala con rendimientos decrecientes para inversión publicitaria empresarial.
 
@@ -37,15 +37,6 @@ python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 
 ***
 
-## Calculadora Interactiva en la Web
-
-Para simulaciones graficas y proyecciones de presupuestos empresariales, acceda a la suite oficial:
-
-* **Calculadora de ROI de Trafico de Pago**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en Ingenieria de Crecimiento
 
 Para auditoria de inversion publicitaria corporativa y modelado econometrico en Espana, consulte al equipo tecnico de **TAVARDT**.
@@ -61,7 +52,7 @@ Para auditoria de inversion publicitaria corporativa y modelado econometrico en 
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
