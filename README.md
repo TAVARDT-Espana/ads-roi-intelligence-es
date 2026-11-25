@@ -6,8 +6,6 @@
 
 Modelado matemático para análisis de ROAS, ROI y proyecciones de escala con rendimientos decrecientes para inversión publicitaria empresarial.
 
-Desarrollado y mantenido por la division de ingenieria de ingresos y medios de pago de **TAVARDT**.
-
 ***
 
 ## Modelado Matematico y Metricas
